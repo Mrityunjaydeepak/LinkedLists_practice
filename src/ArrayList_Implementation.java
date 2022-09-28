@@ -6,6 +6,7 @@ public class ArrayList_Implementation {
         arr.add(290);
         System.out.println(arr.size());
         System.out.println(arr.get(1));
+
     }
 
 }
